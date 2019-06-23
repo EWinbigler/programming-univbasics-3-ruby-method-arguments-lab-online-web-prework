@@ -1,3 +1,3 @@
-def introduction (Bob)
+def introduction (name=Bob)
   
 end
